@@ -32,7 +32,7 @@
 	<scm>
 		<!-- 采用projectUrl变量代替这个值，方便给重复利用这个配置，也就是上面的标签替换一下值就行 -->
 		<developerConnection>${projectUrl}</developerConnection>
-		<connection>https://github.com/yidiansishiyi/zelinai-client-sdk.git</connection>
+		<connection>${projectUrl}</connection>
 		<url>${projectUrl}</url>
 	</scm>
 	<distributionManagement>
@@ -59,7 +59,7 @@
 				<role>Developer</role>
 			</roles>
 			<url>${projectUrl}</url>
-			<timezone>+8</timezone>
+<!--			<timezone>+8</timezone>-->
 		</developer>
 	</developers>
 
@@ -90,5 +90,7 @@
 			<version>5.8.8</version>
 		</dependency>
 	</dependencies>
+
+
 
 </project>

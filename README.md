@@ -4,6 +4,7 @@
 > 3. 来源 : 一点四十一
 > 4. 作者 : sanqi
 > 5. 喜欢支持一下 star
+> 6. 后期维护地址 : https://github.com/orgs/yidiansishiyi/repositories
 ## 官方信息
 #### 官方接口文档
 https://kaokaofs.feishu.cn/docx/Mq8Hdh1YqoZorEx2cgqcnGOPnof
